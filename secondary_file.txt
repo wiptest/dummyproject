@@ -1,1 +1,3 @@
 This is the second file that I added to my project.
+
+secondary_file.txt
